@@ -37,9 +37,6 @@
 
 ### 4. Configuration File (`config.yml`)
 
-yaml
-
-复制
 
 ```yaml
 hook:
@@ -91,7 +88,6 @@ messages: # Fully customizable
 
 Enable with `/sfcdebug` to display:
 
-复制
 
 ```markdown
 Distance: 32.5 | Velocity: 2.7 | Cooldown: 2.0s
