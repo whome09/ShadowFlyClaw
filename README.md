@@ -1,4 +1,4 @@
-### ShadowFlyClaw Plugin Wiki (English)
+[### ShadowFlyClaw Plugin Wiki (English)
 
 ------
 
@@ -107,3 +107,4 @@ All messages support:
 
 - **Color Codes**: `&` prefix (e.g., `&c` = red)
 - **Dynamic Placeholders**:•`{cooldown}` → Current cooldown•`{distance}` → Actual distance•`{max-distance}` → Max range•`{velocity}` → Launch speed
+](https://github.com/whome09/ShadowFlyClaw)
